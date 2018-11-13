@@ -50155,7 +50155,7 @@ Prefab:
     - target: {fileID: 114381515425100274, guid: 0ccf86c1204719d4fa0b1a4f4627eff7,
         type: 2}
       propertyPath: timer
-      value: 40
+      value: 39
       objectReference: {fileID: 0}
     - target: {fileID: 114381515425100274, guid: 0ccf86c1204719d4fa0b1a4f4627eff7,
         type: 2}

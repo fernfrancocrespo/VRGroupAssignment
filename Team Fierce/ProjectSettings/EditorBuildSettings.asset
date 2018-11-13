@@ -11,4 +11,34 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Chronological Scenes/2 Introduction.unity
     guid: 416420dca645c98478f62741fe831778
+  - enabled: 1
+    path: Assets/Scenes/Chronological Scenes/1.5 instruction.unity
+    guid: 321ad6a26ddd403448f331f203b57b4e
+  - enabled: 1
+    path: Assets/Scenes/Chronological Scenes/3 Leading to Office.unity
+    guid: 2b28f444de7e7a64abd75221acc67189
+  - enabled: 1
+    path: Assets/Scenes/Chronological Scenes/4 first conference.unity
+    guid: 36ca72baaba65684da5dcbd97822e35a
+  - enabled: 1
+    path: Assets/Scenes/Chronological Scenes/5 walk with paulina.unity
+    guid: 39d65cdb744cc904fa42d8c32fd1d1f1
+  - enabled: 1
+    path: Assets/Scenes/Chronological Scenes/6 Paulina Office.unity
+    guid: 4abf6d1b40c8cfe4ca9ab1d403ad876c
+  - enabled: 1
+    path: Assets/Scenes/Chronological Scenes/7 Paulina Show Office.unity
+    guid: f5336a49b62d80348a6ad11600d58493
+  - enabled: 1
+    path: Assets/Scenes/Chronological Scenes/8 Paulina Show Boss and all.unity
+    guid: 5690c7f38f9c6bd49926e8d9d8968ea6
+  - enabled: 1
+    path: Assets/Scenes/Chronological Scenes/9 Break Room.unity
+    guid: 8a067a5ff48d0e44db2e470cd9625034
+  - enabled: 1
+    path: Assets/Scenes/Chronological Scenes/10 Overhearing.unity
+    guid: 79d9c73207dfe1749bb65543bb3e62b8
+  - enabled: 1
+    path: Assets/Scenes/Chronological Scenes/11 Did not Attend Meeting.unity
+    guid: cfdf9e7c63df5fd4d98bfd4d332e591c
   m_configObjects: {}

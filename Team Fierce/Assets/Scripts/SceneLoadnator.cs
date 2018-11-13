@@ -4,10 +4,11 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class SceneLoadnator : MonoBehaviour {
+    public string sceneToLoad;
 
 	// Use this for initialization
-	void Start () {
-        SceneManager.LoadScene("Final Scene Restaurant");
+	public void SceneLoad () {
+        SceneManager.LoadScene(sceneToLoad);
 		
 	}
 

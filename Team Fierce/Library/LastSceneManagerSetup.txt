@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Chronological Scenes/3 Leading to Office.unity
+- path: Assets/Scenes/Chronological Scenes/1 Welcome.unity
   isLoaded: 1
   isActive: 1

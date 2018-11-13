@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: b602ab74c5b6c33479083a67f53df87b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Componente_2_1
+    100004: G_2D_Woman_Sitting1
+    100006: Group1
+    100008: Group2
+    100010: Group3
+    100012: Group4
+    100014: Grupo_2_1
+    100016: Grupo_2_2
+    100018: Mesh1
+    100020: Mesh2
+    100022: Mesh3
+    100024: Mesh4
+    100026: Mesh5
+    100028: Mesh6
+    100030: Mesh7
+    100032: Mesh8
+    100034: Sitting_colored_man1
+    100036: Sofa_en_L_No__18_1
+    100038: Woman_Sitting1
+    400000: //RootNode
+    400002: Componente_2_1
+    400004: G_2D_Woman_Sitting1
+    400006: Group1
+    400008: Group2
+    400010: Group3
+    400012: Group4
+    400014: Grupo_2_1
+    400016: Grupo_2_2
+    400018: Mesh1
+    400020: Mesh2
+    400022: Mesh3
+    400024: Mesh4
+    400026: Mesh5
+    400028: Mesh6
+    400030: Mesh7
+    400032: Mesh8
+    400034: Sitting_colored_man1
+    400036: Sofa_en_L_No__18_1
+    400038: Woman_Sitting1
+    2100000: gdfg1
+    2100002: Fabric_Complexion
+    2100004: Carpet_Frieze_Smoke
+    2100006: FrontColor
+    2100008: Color_008
+    2100010: _Pale_Brown_
+    2100012: M_200551827_001
+    2100014: Color_I19
+    2100016: Color_C16
+    2100018: _Beige_1
+    2100020: _2
+    2100022: _0107_MidnightBlue_
+    2100024: _Brown_
+    2100026: _0030_OldLace_
+    2100028: _0043_SaddleBrown_
+    2300000: Mesh1
+    2300002: Mesh2
+    2300004: Mesh3
+    2300006: Mesh4
+    2300008: Mesh5
+    2300010: Mesh6
+    2300012: Mesh7
+    2300014: Mesh8
+    3300000: Mesh1
+    3300002: Mesh2
+    3300004: Mesh3
+    3300006: Mesh4
+    3300008: Mesh5
+    3300010: Mesh6
+    3300012: Mesh7
+    3300014: Mesh8
+    4300000: Mesh1
+    4300002: Mesh2
+    4300004: Mesh3
+    4300006: Mesh4
+    4300008: Mesh5
+    4300010: Mesh6
+    4300012: Mesh7
+    4300014: Mesh8
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
